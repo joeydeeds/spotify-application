@@ -1,0 +1,22 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "Questions for an application to Spotify",
+  "main": "question-1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeydeeds/spotify-application.git"
+  },
+  "author": "Joey Deeds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeydeeds/spotify-application/issues"
+  },
+  "homepage": "https://github.com/joeydeeds/spotify-application#readme",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}
